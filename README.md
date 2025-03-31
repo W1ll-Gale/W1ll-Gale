@@ -1,7 +1,7 @@
 - Hi, I’m @W1ll-Gale
 - I’m interested in game development, all things rockets and space!
 - I’m currently learning C++
-- How to reach me @MrBytesized on every platform!
+- You can reach me @MrBytesized on every platform!
 - Pronouns: he/they
 
 <!---
