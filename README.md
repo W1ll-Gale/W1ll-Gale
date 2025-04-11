@@ -14,4 +14,4 @@ Skills: C# / C++ / PYTHON / UNITY / GODOT
 
 <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=W1ll-Gale)  
+
