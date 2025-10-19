@@ -4,8 +4,8 @@ I’m interested in game development, all things rockets and space!
 
 Skills: C# / C++ / PYTHON / UNITY / GODOT
 
-- 🔭 I’m currently working on my Honours Project
-- 🌱 I’m currently developing my own ECS game engine 
+- 🔭 I’m currently working on a Unity 2D Tilemap PCG Tool for my Honours Project
+- 🌱 I’m currently developing my own ECS game engine
 - 📫 How to reach me: @MrBytesized on every platform 
 - 😄 Pronouns: He/They 
 
