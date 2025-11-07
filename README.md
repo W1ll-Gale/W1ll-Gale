@@ -4,10 +4,10 @@ I’m interested in game development, all things rockets and space!
 
 Skills: C# / C++ / PYTHON / UNITY / GODOT
 
-- 🔭 I’m currently working on a Unity 2D Tilemap PCG Tool for my Honours Project
-- 🌱 I’m currently developing my own ECS game engine
-- 📫 How to reach me: @MrBytesized on every platform 
-- 😄 Pronouns: He/They 
+- I’m currently working on a Unity 2D Tilemap PCG Tool for my Honours Project
+- I’m currently developing my own ECS game engine
+- How to reach me: @MrBytesized on every platform 
+- Pronouns: He/They 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/W1ll-Gale)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/will-gale-14b343292//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/MrBytesized)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/MrBytesized)  
