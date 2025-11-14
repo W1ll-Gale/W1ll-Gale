@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">I’m a third year computer science university student interested in game development, all things rockets and space!<br><br>- I’m currently working on a Unity 2D Tilemap PCG Tool for my Honours Project<br>- I’m currently developing my own ECS game engine<br>- How to reach me: @MrBytesized on every platform <br>- Pronouns: He/They</p>
+<p align="left">I’m a third year computer science university student interested in game development, all things rockets and space!<br><br>- I’m currently working on a Unity 2D Tilemap PCG Tool for my Honours Project<br>- I’m currently developing my own ECS game engine<br>- How to reach me: <strong>@MrBytesized</strong> on every platform <br>- Pronouns: He/They</p>
 
 ###
 
