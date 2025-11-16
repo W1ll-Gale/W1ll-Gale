@@ -4,7 +4,8 @@
 
 ###
 
-<h1 align="left">MrBytesized (Will) 📺</h1>
+<h1 align="left">MrBytesized (Will) <img align="center" height="50" src="https://64.media.tumblr.com/d3b5c390bac014456ece4804163ceb40/1dd1b3ff9d3f4fd3-18/s1280x1920/9457cddbde25d84692582092ce871861255dd100.png"  />
+</h1>
 
 ###
 
