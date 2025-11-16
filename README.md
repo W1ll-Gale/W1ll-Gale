@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="left">MrBytesized (Will) <img align="center" height="50" src="https://64.media.tumblr.com/d3b5c390bac014456ece4804163ceb40/1dd1b3ff9d3f4fd3-18/s1280x1920/9457cddbde25d84692582092ce871861255dd100.png"  />
+<h1 align="left">MrBytesized (Will) <img align="center" height="75" src="https://64.media.tumblr.com/d3b5c390bac014456ece4804163ceb40/1dd1b3ff9d3f4fd3-18/s1280x1920/9457cddbde25d84692582092ce871861255dd100.png"  />
 </h1>
 
 ###
@@ -20,7 +20,7 @@
 
 ###
 
-<h2 align="left">About Me</h2>
+<h2 align="left">About Me <img align="center" height="75" src="https://64.media.tumblr.com/fd55f4f9f3dc8d305f9c192adda16427/af2e941a74b77a95-8b/s1280x1920/6429591bd48d936f9f79136a0e3533fd008cb7b4.png"  /></h2>
 
 ###
 
@@ -28,7 +28,7 @@
 
 ###
 
-<h2 align="left">Tech Stack</h2>
+<h2 align="left">Tech Stack <img align="center" height="75" src="https://64.media.tumblr.com/b5a92d057e519b6deadf36bf0b711602/c1221245d882ff30-ed/s540x810/5980f23a05f54bc2f86d5d60e9734f23f8417cf4.png"  /></h2>
 
 ###
 
@@ -83,7 +83,7 @@
 
 ###
 
-<h2 align="left">GitHub Stats</h2>
+<h2 align="left">GitHub Stats <img align="center" height="75" src="https://64.media.tumblr.com/1681db5fb4e23f2e0b8b3478ea5b2b70/02ac6c9184ea8e04-1f/s540x810/289c9b87d1f59140783dbf7cb670900f09853dbb.png"  /></h2>
 
 ###
 
